@@ -1,2 +1,2 @@
-# FAT-Diff
-FAT-Diff: Decoupling Structural Topology and Generative Realism for Extreme Face Super-Resolution
+# Underwater-channel-estimation
+Code for underwater channel estimation using 2-dimension frequencies characterization
