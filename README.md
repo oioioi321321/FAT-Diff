@@ -8,21 +8,6 @@ Official PyTorch implementation of **FAT-Diff**, a two-stage framework for extre
 
 ---
 
-## 🏗️ Overview
-
-Extreme face super-resolution aims to reconstruct high-quality facial images from extremely low-resolution inputs. Existing methods often struggle to simultaneously preserve facial topology and generate realistic textures under severe degradation.
-
-To address this challenge, we propose **FAT-Diff**, a two-stage framework that explicitly decouples structural topology recovery and generative realism enhancement.
-
-The proposed framework consists of:
-
-* **FAT-Net**: A Facial Topology-Aware Transformer for structural recovery.
-* **FTGM**: A Facial Topology Guidance Matrix that models intrinsic relationships among facial regions.
-* **Diffusion Refinement Module**: A DDIM-based generative refinement stage for realistic texture synthesis.
-* **Perception-Distortion Controllable Inference**: An α-blending strategy that enables flexible trade-offs between distortion fidelity and perceptual quality.
-
----
-
 ## 🏗️ Framework
 
 ### Stage I: Facial Topology-Aware Structure Construction
