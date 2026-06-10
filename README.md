@@ -33,7 +33,8 @@ A diffusion refinement network further restores high-frequency facial details an
   <img src="figs/framework.png" width="90%">
 </p>
 
-**Figure:**Overall architecture of the proposed FAT-Diff framework.
+**Figure:** Overall architecture of the proposed FAT-Diff framework.
+
 ---
 
 ## 📦 Dataset Preparation
