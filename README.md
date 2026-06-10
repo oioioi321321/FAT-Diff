@@ -89,7 +89,7 @@ Prepare the datasets following the structure below:
 
 ```text
 datasets/
-├── CelebA-HQ
+├── CelebA
 ├── Helen
 └── ...
 ```
@@ -102,22 +102,6 @@ For extreme face super-resolution, HR images are resized to 128×128 and degrade
 Bicubic Downsampling
    ↓
 16×16
-```
-
----
-
-## Training
-
-```bash
-python basicsr/train.py \
-```
-
----
-
-## Testing
-
-```bash
-python basicsr/test.py 
 ```
 
 ---
