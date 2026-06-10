@@ -25,7 +25,7 @@ The proposed framework consists of:
 
 ## Framework
 
-### Stage I: Facial Topology-Aware Structure Recovery
+### Stage I: Facial Topology-Aware Structure Construction
 
 FAT-Net leverages graph-based attention mechanisms guided by the proposed Facial Topology Guidance Matrix (FTGM) to recover global facial structures from severely degraded inputs.
 
