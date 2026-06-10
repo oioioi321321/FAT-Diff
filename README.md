@@ -108,36 +108,8 @@ Bicubic Downsampling
 
 ## Training
 
-### Stage I: FAT-Net
-
 ```bash
 python basicsr/train.py \
--opt options/train/GVTNet/my_x8_train.yml
-```
-
-### Resume Training
-
-```bash
-python basicsr/train.py \
--opt options/train/GVTNet/my_x8_train.yml \
---auto_resume
-```
-
-### Stage II: Diffusion Refinement
-
-```bash
-python basicsr/train.py \
--opt options/train/GVTNet/diffusion_train.yml
-```
-
-### Multi-GPU Training
-
-```bash
-python -m torch.distributed.launch \
---nproc_per_node=4 \
-basicsr/train.py \
--opt options/train/GVTNet/my_x8_train.yml \
---launcher pytorch
 ```
 
 ---
@@ -145,8 +117,7 @@ basicsr/train.py \
 ## Testing
 
 ```bash
-python basicsr/test.py \
--opt options/test/GVTNet/your_test_config.yml
+python basicsr/test.py 
 ```
 
 ---
@@ -173,19 +144,6 @@ Pretrained checkpoints will be released upon acceptance.
 | FAT-Diff | Coming Soon |
 
 ---
-
-## Citation
-
-If you find this work useful, please consider citing:
-
-```bibtex
-@article{jin2026fatdiff,
-  title={FAT-Diff: Decoupling Structural Topology and Generative Realism for Extreme Face Super-Resolution},
-  author={Jin, XXX and others},
-  journal={Under Review},
-  year={2026}
-}
-```
 
 ---
 
