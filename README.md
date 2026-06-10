@@ -79,6 +79,11 @@ We sincerely thank the authors for making their code publicly available.
 
 ---
 
+## 🛠️ Requirements
+
+- **[2026-06]** FAT-Diff repository initialized.
+- **[2026-06]** Paper submitted to *IEEE Transactions on Image Processing (TIP)*.
+
 ## 📜 License
 
 This project is released for academic research purposes only.
