@@ -24,34 +24,6 @@ A diffusion refinement network further restores high-frequency facial details an
 
 ---
 
-## 🎯 Highlights
-
-* Facial Topology Guidance Matrix (FTGM)
-* Graph Vision Transformer based structure recovery
-* Diffusion-based detail refinement
-* Identity-preserving face reconstruction
-* Controllable perception-distortion trade-off
-* Strong performance under extreme 8× face super-resolution
-
----
-
-## 📝 Project Structure
-
-```text
-FAT-Diff
-├── basicsr
-├── experiments
-├── inference
-├── options
-├── scripts
-├── tests
-├── figs
-├── results
-└── README.md
-```
-
----
-
 ## 📦 Installation
 
 ```bash
