@@ -63,19 +63,6 @@ Representative visual results are provided below.
 
 ---
 
-## 📈 Pretrained Models
-
-Pretrained checkpoints will be released upon acceptance.
-
-| Model    | Status      |
-| -------- | ----------- |
-| FAT-Net  | Coming Soon |
-| FAT-Diff | Coming Soon |
-
----
-
----
-
 ## 🙏 Acknowledgement
 
 This project is built upon several excellent open-source projects, including:
