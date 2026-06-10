@@ -1,10 +1,12 @@
-# 🚀 FAT-Diff: Decoupling Structural Topology and Generative Realism for Extreme Face Super-Resolution
+# FAT-Diff: Decoupling Structural Topology and Generative Realism for Extreme Face Super-Resolution
 
-Official PyTorch implementation of **FAT-Diff**, a two-stage framework for extreme face super-resolution that decouples structural topology recovery and generative detail enhancement.
+Official PyTorch implementation of FAT-Diff, a two-stage framework for extreme face super-resolution that decouples structural topology recovery and generative detail enhancement.
 
-> **Status:** Under Review
-> **Code Release:** To be released upon acceptance
-> **Pretrained Models:** To be released upon acceptance
+> 🚧 **Status:** Under Review
+>
+> 💻 **Source Code:** To be released upon acceptance
+>
+> 📦 **Pretrained Models:** To be released upon acceptance
 
 ---
 
