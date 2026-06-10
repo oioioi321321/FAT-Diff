@@ -92,4 +92,4 @@ We sincerely thank the authors for making their code publicly available.
 
 This project is released for academic research purposes only.
 
-See the LICENSE[LICENSE](LICENSE) file for details.
+See the [LICENSE](LICENSE) file for details.
