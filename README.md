@@ -3,7 +3,7 @@
 Official PyTorch implementation of **FAT-Diff**, a two-stage framework for extreme face super-resolution that decouples structural topology recovery and generative detail enhancement.
 
 > **Status:** Under Review
-> **Code Release:** Available
+> **Code Release:** To be released upon acceptance
 > **Pretrained Models:** To be released upon acceptance
 
 ---
