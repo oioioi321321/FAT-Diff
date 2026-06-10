@@ -1,4 +1,4 @@
-# rocket: FAT-Diff: Decoupling Structural Topology and Generative Realism for Extreme Face Super-Resolution
+# 🚀 FAT-Diff: Decoupling Structural Topology and Generative Realism for Extreme Face Super-Resolution
 
 Official PyTorch implementation of **FAT-Diff**, a two-stage framework for extreme face super-resolution that decouples structural topology recovery and generative detail enhancement.
 
@@ -8,7 +8,7 @@ Official PyTorch implementation of **FAT-Diff**, a two-stage framework for extre
 
 ---
 
-## building_construction: Overview
+## 🏗️ Overview
 
 Extreme face super-resolution aims to reconstruct high-quality facial images from extremely low-resolution inputs. Existing methods often struggle to simultaneously preserve facial topology and generate realistic textures under severe degradation.
 
@@ -23,7 +23,7 @@ The proposed framework consists of:
 
 ---
 
-## building_construction: Framework
+## 🏗️ Framework
 
 ### Stage I: Facial Topology-Aware Structure Construction
 
@@ -50,7 +50,7 @@ A diffusion refinement network further restores high-frequency facial details an
 
 ---
 
-## Project Structure
+## 📝 Project Structure
 
 ```text
 FAT-Diff
@@ -67,7 +67,7 @@ FAT-Diff
 
 ---
 
-## Installation
+## 📦 Installation
 
 ```bash
 git clone https://github.com/your_username/FAT-Diff.git
@@ -83,7 +83,7 @@ pip install -r requirements.txt
 
 ---
 
-## Dataset Preparation
+## 📦 Dataset Preparation
 
 Prepare the datasets following the structure below:
 
@@ -106,7 +106,7 @@ Bicubic Downsampling
 
 ---
 
-## Experimental Results
+## 📊Experimental Results
 
 FAT-Diff achieves competitive performance on multiple face super-resolution benchmarks and demonstrates strong reconstruction capability under extreme low-resolution settings.
 
@@ -118,7 +118,7 @@ Representative visual results are provided below.
 
 ---
 
-## Pretrained Models
+## 📈 Pretrained Models
 
 Pretrained checkpoints will be released upon acceptance.
 
@@ -131,7 +131,7 @@ Pretrained checkpoints will be released upon acceptance.
 
 ---
 
-## Acknowledgement
+## 🙏 Acknowledgement
 
 This project is built upon several excellent open-source projects, including:
 
@@ -144,7 +144,7 @@ We sincerely thank the authors for making their code publicly available.
 
 ---
 
-## License
+## 📜 License
 
 Copyright (c) 2026
 
