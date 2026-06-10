@@ -10,6 +10,17 @@ Official PyTorch implementation of FAT-Diff, a two-stage framework for extreme f
 
 ---
 
+```markdown
+## 🚀 News
+
+- **[2026-06]** FAT-Diff repository initialized.
+- **[2026-06]** Paper submitted to *IEEE Transactions on Image Processing (TIP)*.
+- **[Coming Soon]** Source code will be released upon acceptance.
+- **[Coming Soon]** Pretrained models will be released upon acceptance.
+```
+
+---
+
 ## 🏗️ Framework
 
 ### Stage I: Facial Topology-Aware Structure Construction
