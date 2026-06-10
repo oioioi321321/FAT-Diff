@@ -81,14 +81,6 @@ We sincerely thank the authors for making their code publicly available.
 
 ## 📜 License
 
-Copyright (c) 2026
+This project is released for academic research purposes only.
 
-This repository is released for academic research purposes only.
-
-The code and associated materials may be used, reproduced, and modified for non-commercial research and educational purposes.
-
-Commercial use of any part of this repository is strictly prohibited without prior written permission from the authors.
-
-The authors provide this software "as is" without warranty of any kind.
-
-For commercial licensing inquiries, please contact the corresponding author.
+See the LICENSE file for details.
