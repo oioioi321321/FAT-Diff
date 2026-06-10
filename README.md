@@ -33,7 +33,7 @@ A diffusion refinement network further restores high-frequency facial details an
   <img src="figs/framework.png" width="90%">
 </p>
 
-**Figure 1.:** Overall architecture of the proposed FAT-Diff framework.
+**Figure 1.** Overall architecture of the proposed FAT-Diff framework.
 
 ---
 
@@ -62,7 +62,7 @@ Representative visual results are provided below.
   <img src="figs/visual_results.png" width="90%">
 </p>
 
-**Figure 2.:** Visual comparison on extreme face super-resolution. Zoomed-in facial regions are provided for detailed inspection. **Rows 1–2** correspond to the eye and mouth regions, while **Rows 3–4** correspond to the hair and beard regions. Our FAT-Diff reconstructs more accurate facial geometry and preserves richer high-frequency textures, leading to superior visual quality compared with existing approaches.
+**Figure 2.** Visual comparison on extreme face super-resolution. Zoomed-in facial regions are provided for detailed inspection. **Rows 1–2** correspond to the eye and mouth regions, while **Rows 3–4** correspond to the hair and beard regions. Our FAT-Diff reconstructs more accurate facial geometry and preserves richer high-frequency textures, leading to superior visual quality compared with existing approaches.
 
 ---
 
