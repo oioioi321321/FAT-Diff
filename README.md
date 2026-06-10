@@ -33,6 +33,7 @@ A diffusion refinement network further restores high-frequency facial details an
   <img src="figs/framework.png" width="90%">
 </p>
 
+**Figure:**Overall architecture of the proposed FAT-Diff framework.
 ---
 
 ## 📦 Dataset Preparation
@@ -47,14 +48,6 @@ The experiments are conducted on the **CelebA** and **Helen** face datasets.
 ### Face Alignment and Cropping
 
 Following common face super-resolution protocols, all face images are first aligned using facial landmarks and then center-cropped to obtain normalized facial regions.
-
-The aligned face images are resized to:
-
-```text
-128 × 128
-```
-
-which serve as the ground-truth high-resolution (HR) images.
 
 ---
 
