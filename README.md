@@ -81,8 +81,11 @@ We sincerely thank the authors for making their code publicly available.
 
 ## 🛠️ Requirements
 
-- **[2026-06]** FAT-Diff repository initialized.
-- **[2026-06]** Paper submitted to *IEEE Transactions on Image Processing (TIP)*.
+- torch>=1.13
+- torchvision>=0.14
+- opencv-python>=4.5
+
+---
 
 ## 📜 License
 
