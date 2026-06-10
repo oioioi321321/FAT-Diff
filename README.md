@@ -84,7 +84,7 @@ We sincerely thank the authors for making their code publicly available.
 - torch>=1.13
 - torchvision>=0.14
 - opencv-python>=4.5
-- (See requirements.txt for full dependencies)
+- (See [requirements.txt](requirements.txt) for full dependencies)
 
 ---
 
